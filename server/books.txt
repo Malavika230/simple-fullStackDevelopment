@@ -1,0 +1,110 @@
+﻿
+        {
+            "SNo.": "1",
+            "BOOK NAME": "Charlotte's Web",
+            "AUTHER": "E. B. White",
+            "PUBLICATION DATE": "October 15, 1952",
+            "PUBLISHER": "Harper & Brothers",
+            "LANGUAGE": "English",
+            "COUNTRY": "United States"
+        },
+        {
+            "SNo.": "2",
+            "BOOK NAME": "The Hobbit",
+            "AUTHER": "J. R. R. Tolkien",
+            "PUBLICATION DATE": "September 21, 1937",
+            "PUBLISHER": "George Allen & Unwin",
+            "LANGUAGE": "English",
+            "COUNTRY": "United Kingdom"
+        },
+        {
+            "SNo.": "3",
+            "BOOK NAME": "The Little Prince",
+            "AUTHER": "Antoine de Saint-Exupéry",
+            "PUBLICATION DATE": "April, 1943",
+            "PUBLISHER": "Gallimard",
+            "LANGUAGE": "French",
+            "COUNTRY": "France"
+        },
+        {
+            "SNo.": "4",
+            "BOOK NAME": "Winnie-the-Pooh",
+            "AUTHER": "A. A. Milne",
+            "PUBLICATION DATE": "October 14, 1926",
+            "PUBLISHER": "Methuen & Co. Ltd.",
+            "LANGUAGE": "English",
+            "COUNTRY": "United Kingdom"
+        },
+        {
+            "SNo.": "5",
+            "BOOK NAME": "Goodnight Moon",
+            "AUTHER": "Margaret Wise Brown",
+            "PUBLICATION DATE": "September 3, 1947",
+            "PUBLISHER": "Harper & Brothers",
+            "LANGUAGE": "English",
+            "COUNTRY": "United States"
+        },
+        {
+            "SNo.": "6",
+            "BOOK NAME": "All-of-a-Kind Family",
+            "AUTHER": "Sydney Taylor",
+            "PUBLICATION DATE": "1951",
+            "PUBLISHER": "Follett Publishing Company",
+            "LANGUAGE": "English",
+            "COUNTRY": "United States"
+        },
+        {
+            "SNo.": "7",
+            "BOOK NAME": "The Phantom Tollbooth",
+            "AUTHER": "Norton Juster",
+            "PUBLICATION DATE": "August 12, 1961",
+            "PUBLISHER": "Epstein & Carroll, distributed",
+            "LANGUAGE": "English",
+            "COUNTRY": "United States"
+        },
+        {
+            "SNo.": "8",
+            "BOOK NAME": "Corduroy",
+            "AUTHER": "Don Freeman",
+            "PUBLICATION DATE": "1968",
+            "PUBLISHER": "Viking Press",
+            "LANGUAGE": "English",
+            "COUNTRY": "United States"
+        },
+        {
+            "SNo.": "9",
+            "BOOK NAME": "Sylvester and the Magic Pebble",
+            "AUTHER": "William Steig",
+            "PUBLICATION DATE": "September 24, 1969",
+            "PUBLISHER": "Windmill Books",
+            "LANGUAGE": "English",
+            "COUNTRY": "United States"
+        },
+        {
+            "SNo.": "10",
+            "BOOK NAME": "The BFG",
+            "AUTHER": "Roald Dahl",
+            "PUBLICATION DATE": "January 14, 1982",
+            "PUBLISHER": "Jonathan Cape",
+            "LANGUAGE": "English",
+            "COUNTRY": "United Kingdom"
+        },
+        {
+            "SNo.": "11",
+            "BOOK NAME": "Harry Potter and the Philosopher's Stone ",
+            "AUTHER": "J. K. Rowling",
+            "PUBLICATION DATE": "June 26, 1997 ",
+            "PUBLISHER": "Bloomsbury",
+            "LANGUAGE": "English",
+            "COUNTRY": "United Kingdom"
+        },
+        {
+            "SNo.": "12",
+            "BOOK NAME": "The Giver ",
+            "AUTHER": "Lois Lowry",
+            "PUBLICATION DATE": "1993 ",
+            "PUBLISHER": "Houghton Mifflin",
+            "LANGUAGE": "English",
+            "COUNTRY": "United States"
+        }
+ 
